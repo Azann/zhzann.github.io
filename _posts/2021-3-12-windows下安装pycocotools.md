@@ -30,3 +30,7 @@
   https://blog.csdn.net/qq_34289157/article/details/89952092
   
   # 也可能是由于开了代理的原因 #
+
+# 安装opencv-python
+  pip install opencv-python  -i https://pypi.tuna.tsinghua.edu.cn/simple
+  使用清华镜像成功安装
