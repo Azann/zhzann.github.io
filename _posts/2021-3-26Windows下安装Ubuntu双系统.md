@@ -25,7 +25,9 @@ Ubuntu20.04现在网上一般说有很多的Bug，相对而言18.04比较稳定�
 - sudo apt install gcc g++ make
 - 重启电脑
 ### 安装新驱动程序
-- 重启后Ctrl + Alt + F3到控制台，'sudo telinit 3'关闭当前图形环境（或者启动时选择Ubuntu高级设置启动） 
+- 重启后Ctrl + Alt + F3到控制台，'sudo telinit 3'关闭当前图形环境（或者启动时选择Ubuntu高级设置启动）
+-  选择recovery mode
+-  选择root
 - 进入主文件夹即home文件夹下，‘cd /home/用户名’（忘记用户名可以使用‘ls’命令来显示当前文件夹下的内容）
 - sudo chmod a+x 1081ti.run
 - sudo sh 1080ti.run -no-opengl-files
