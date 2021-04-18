@@ -21,7 +21,7 @@ Ubuntu20.04现在网上一般说有很多的Bug，相对而言18.04比较稳定�
 - options nouveau modeset=0
 - 保存再终端内更新内核命令
 - sudo update-initramfs -u
-- sudo qpt update
+- sudo apt update
 - sudo apt install gcc g++ make
 - 重启电脑
 ### 安装新驱动程序
