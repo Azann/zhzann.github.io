@@ -1,4 +1,7 @@
-# Labview入门
+---
+layout: post
+title:Labview入门
+---
 ## labview编程特点
 * 图像编程
 * 并行性运行（可以通过添加顺序结构来实现顺序运行）
