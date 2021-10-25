@@ -1,4 +1,7 @@
-# Windows下安装pycocotools
+---
+layout: post
+title: Windows下安装pycocotools
+---
 pip install pycocotools-windows
   
 以前使用上述命令可以直接在windows下安装成功，现在试已经不行了
