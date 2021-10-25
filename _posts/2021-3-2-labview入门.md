@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Labview入门
+title: Labview入门
 ---
 ## labview编程特点
 * 图像编程
